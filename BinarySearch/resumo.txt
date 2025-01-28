@@ -1,0 +1,2 @@
+Nesse algoritmo eu reviso o que é um array, relembro técnica para não ter um overflow usando recurso aritmético.
+Uso estruturas de repetição e condicional para conseguir verificar o alvo escolhido e dessa forma encontrar o índice em que ele está localizado no array.
